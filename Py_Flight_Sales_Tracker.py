@@ -48,7 +48,7 @@ import plotly as py
 import plotly.graph_objs as go
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 
-py.tools.set_credentials_file(username='akat022', api_key='Pdc1fGtg6IOWTOF1uLvE')
+py.tools.set_credentials_file(username='', api_key='')
 
 py.offline.init_notebook_mode()
 init_notebook_mode(connected=True)
